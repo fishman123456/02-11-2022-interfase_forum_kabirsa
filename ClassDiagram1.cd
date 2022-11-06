@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Animals.cat">
+    <Position X="3.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAQAEAAAAAAAAAAAAABAAAAAAAAACQAg=</HashCode>
+      <FileName>cat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Animals.chicken">
+    <Position X="8.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAQAEAAAAAAAAAAAAABAAAAAAAAAAQBg=</HashCode>
+      <FileName>chicken.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Animals.cow">
+    <Position X="10.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAQAEAAAAAAAAAAAAABCAAAAAAAAAQAg=</HashCode>
+      <FileName>cow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Animals.dog">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAQAEAAAAAAAAAAAAABAABAAAAAAAQAg=</HashCode>
+      <FileName>dog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Animals._Home_Animals">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAEAAAAAAAAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>_Home_Animals.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Animals.Interface_1">
+    <Position X="13" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAQAg=</HashCode>
+      <FileName>Interface_1.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Animals.Interface2">
+    <Position X="14.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interface_2.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Animals.Interface3">
+    <Position X="13" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interface_3.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
